@@ -1,0 +1,5 @@
+name = Culture and communication web site 
+description = Control Culture and communication web site should work 
+
+package = University of Melbourne
+core = 7.x
